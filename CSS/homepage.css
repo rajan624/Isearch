@@ -13,7 +13,7 @@ a{
 section{
     width: 100%;
     height: 95vh;
-    background-image: url("image/people_find.jpg");
+    background-image: url("../image/people_find.jpg");
     background-repeat: no-repeat;
     background-size: cover ;
     position: relative;
@@ -139,10 +139,10 @@ services-text p:nth-child(3){
     justify-content: space-between;
 }
 .box-1{
-    background-image: url("image/servies-3.png");
+    background-image: url("../image/servies-3.png");
 }
 .box-2{
-    background-image: url("image/services-2.png");
+    background-image: url("../image/services-2.png");
 }
 .box-1 p:nth-child(2),
 .box-2 p:nth-child(2){
